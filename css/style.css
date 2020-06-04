@@ -1,0 +1,21 @@
+h2 {
+    color: #bab8b8;
+    font-style: italic;
+    
+}
+
+
+span {
+    color: #c4930d;
+    text-transform:uppercase;
+}
+
+.workexp td {
+        padding-right: 10px;
+        background-color: #d8c9c9;        
+}
+
+.bio-section td,
+.skills td {
+    padding-right: 10px;
+}
